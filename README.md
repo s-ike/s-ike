@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-ike&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Certifications
+
+![](https://images.credly.com/size/220x220/images/ead0ef07-6071-4c96-a79f-27bb32c4be93/AWS-Academy-Graduate-Badge-Foundational.png)
